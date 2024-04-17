@@ -24,6 +24,13 @@
   height: 217.5px;
   float:left;
 }
+.RoyGBiv{
+    box-sizing: border-box;
+    margin-left: 100px;
+    width: 292.5px;
+    height: 217.5px;
+    float:left;
+  }
 span{
   background-color: #E6ECFF;
 }
