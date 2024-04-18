@@ -63,3 +63,6 @@ ul {
     border-color: #e6ecff;
     background-color: #e6ecff;
   }
+  button:hover{
+    color:#414c5e
+  }

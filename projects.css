@@ -23,8 +23,32 @@
   height: 217.5px;
   float:left;
 }
-.AllePal{
+.StitchLoop{
+    margin-left:100px;
     margin-bottom:200px;
+    box-sizing: border-box;
+    width: 292.5px;
+    height: 217.5px;
+    float:left;
+  }
+  .Fren{
+    margin-left:100px;
+    margin-bottom:200px;
+    box-sizing: border-box;
+    width: 292.5px;
+    height: 217.5px;
+    float:left;
+  }
+.AllePal{
+    margin-bottom:230px;
+    margin-left:100px;
+  box-sizing: border-box;
+  width: 292.5px;
+  height: 217.5px;
+  float:left;
+}
+.RainBros{
+    margin-bottom:230px;
     margin-left:100px;
   box-sizing: border-box;
   width: 292.5px;
