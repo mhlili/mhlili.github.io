@@ -2,14 +2,34 @@
     margin-top:50px;
     margin-left: 100px;
 }
-.RoyShortDesc{
+.RoySkills{
+    margin-left: 100px;
+    margin-top:10px;
+}
+.RoyContext{
     margin-left: 100px;
 }
 .RoyStartingImages{
+    margin-top:30px;
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 img{
     margin:10px;
+}
+.RoyText{
+    margin-left: 100px;
+    margin-right:100px;
+}
+.RoyText2{
+    margin-left: 100px;
+    margin-right:100px;
+    margin-bottom:100px;
+}
+.AutocadAndParts{
+    margin-top:30px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
