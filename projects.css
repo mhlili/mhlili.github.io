@@ -1,32 +1,48 @@
 .Projects-Intro{
-    margin-top:50px;
+    margin-top:125px;
     margin-left: 100px;
+}
+.Listings{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .Steve-Skeleton{
+    margin-bottom:200px;
+    margin-left:100px;
   box-sizing: border-box;
-  margin-left: 100px;
   width: 292.5px;
   height: 217.5px;
   float:left;
 }
 .Kinevix{
+    margin-bottom:200px;
+    margin-left:100px;
   box-sizing: border-box;
-  margin-left: 100px;
   width: 292.5px;
   height: 217.5px;
   float:left;
 }
 .AllePal{
+    margin-bottom:200px;
+    margin-left:100px;
   box-sizing: border-box;
-  margin-left: 100px;
   width: 292.5px;
   height: 217.5px;
   float:left;
 }
 .RoyGBiv{
+    margin-left:100px;
+    margin-bottom:200px;
     box-sizing: border-box;
-    margin-left: 100px;
+    width: 292.5px;
+    height: 217.5px;
+    float:left;
+  }
+  .SaltE{
+    box-sizing: border-box;
+    margin-bottom:200px;
+    margin-left:100px;
     width: 292.5px;
     height: 217.5px;
     float:left;

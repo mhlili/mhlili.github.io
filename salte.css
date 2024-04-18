@@ -1,0 +1,35 @@
+.SaltETitle{
+    margin-top:125px;
+    margin-left: 100px;
+}
+.SaltESkills{
+    margin-left: 100px;
+    margin-top:10px;
+}
+.SaltEContext{
+    margin-left: 100px;
+}
+.SaltEImages{
+    margin-top:30px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    margin:10px;
+}
+.SaltEText{
+    margin-left: 100px;
+    margin-right:100px;
+}
+.SaltEText2{
+    margin-left: 100px;
+    margin-right:100px;
+    margin-bottom:100px;
+}
+.AutocadAndParts{
+    margin-top:30px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
