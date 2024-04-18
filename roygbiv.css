@@ -1,0 +1,15 @@
+.RoyTitle{
+    margin-top:50px;
+    margin-left: 100px;
+}
+.RoyShortDesc{
+    margin-left: 100px;
+}
+.RoyStartingImages{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    margin:10px;
+}
