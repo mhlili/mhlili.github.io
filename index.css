@@ -1,14 +1,22 @@
 .MaggieIntro{
-    position: relative;
-    top:165px;
-    left:300px;
-    width: 550px;
+    position: absolute;
+    top: 20%;
+    left:16%;
+    width: 35%;
+    background-color: white;
 }
 
 .Maggie{
     position: absolute;
-    top:125px;
-    right:250px;
+    top:13%;
+    right:15%;
+    width:35%;
+    height:50%;
+}
+.IntroBox{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 h1{
