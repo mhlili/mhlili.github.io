@@ -1,14 +1,13 @@
 .RoyTitle{
     margin-top:125px;
-    margin-left: 100px;
 }
 .RoySkills{
-    margin-left: 100px;
     margin-top:10px;
 }
-.RoyContext{
+.Roy-Heading{
     margin-left: 100px;
 }
+
 .RoyStartingImages{
     margin-top:30px;
     display:flex;

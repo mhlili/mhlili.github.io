@@ -1,14 +1,10 @@
 .SaltETitle{
     margin-top:125px;
-    margin-left: 100px;
 }
 .SaltESkills{
-    margin-left: 100px;
     margin-top:10px;
 }
-.SaltEContext{
-    margin-left: 100px;
-}
+
 .SaltEImages{
     margin-top:30px;
     display:flex;
@@ -32,4 +28,7 @@ img{
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+.SaltE-Heading{
+    margin-left:100px;
 }
