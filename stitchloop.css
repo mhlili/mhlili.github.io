@@ -1,14 +1,11 @@
-.RoyTitle{
+.StitchLoopTitle{
     margin-top:125px;
 }
-.RoySkills{
+.StitchLoopSkills{
     margin-top:10px;
 }
-.Roy-Heading{
-    margin-left: 100px;
-}
 
-.RoyStartingImages{
+.StitchLoopImages{
     margin-top:30px;
     display:flex;
     flex-wrap: wrap;
@@ -17,11 +14,11 @@
 img{
     margin:10px;
 }
-.RoyText{
+.StitchLoopText{
     margin-left: 100px;
     margin-right:100px;
 }
-.RoyText2{
+.StitchLoopText2{
     margin-left: 100px;
     margin-right:100px;
     margin-bottom:100px;
@@ -31,4 +28,7 @@ img{
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+.StitchLoop-Heading{
+    margin-left:100px;
 }
