@@ -6,7 +6,7 @@ html{
 
 ul {
     list-style-type: none;
-    position: fixed;
+    position: absolute;
     left: 0;
     top: 0;
     margin-top:0px;

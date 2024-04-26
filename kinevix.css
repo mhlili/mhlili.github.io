@@ -1,11 +1,11 @@
-.SaltETitle{
+.KinevixTitle{
     margin-top:125px;
 }
-.SaltESkills{
+.KinevixSkills{
     margin-top:10px;
 }
 
-.SaltEImages{
+.KinevixImages{
     margin-top:30px;
     display:flex;
     flex-wrap: wrap;
@@ -14,21 +14,15 @@
 img{
     margin:10px;
 }
-.SaltEText{
+.KinevixText{
     margin-left: 100px;
     margin-right:100px;
 }
-.SaltEText2{
+.KinevixText2{
     margin-left: 100px;
     margin-right:100px;
     margin-bottom:100px;
 }
-.TechnicalImages{
-    margin-top:30px;
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-.SaltE-Heading{
+.Kinevix-Heading{
     margin-left:100px;
 }

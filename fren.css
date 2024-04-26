@@ -1,11 +1,11 @@
-.SaltETitle{
+.FrenTitle{
     margin-top:125px;
 }
-.SaltESkills{
+.FrenSkills{
     margin-top:10px;
 }
 
-.SaltEImages{
+.FrenImages{
     margin-top:30px;
     display:flex;
     flex-wrap: wrap;
@@ -14,11 +14,11 @@
 img{
     margin:10px;
 }
-.SaltEText{
+.FrenText{
     margin-left: 100px;
     margin-right:100px;
 }
-.SaltEText2{
+.FrenText2{
     margin-left: 100px;
     margin-right:100px;
     margin-bottom:100px;
@@ -29,6 +29,6 @@ img{
     flex-wrap: wrap;
     justify-content: center;
 }
-.SaltE-Heading{
+.Fren-Heading{
     margin-left:100px;
 }
